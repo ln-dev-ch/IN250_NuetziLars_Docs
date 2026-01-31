@@ -22,3 +22,6 @@ Switch to main branch again
 
 Merge feature branch into main
 `git merge feature-branch-name`
+
+If needed add --no-ff to Merge:
+`git merge --no-ff feature-branch-name`
